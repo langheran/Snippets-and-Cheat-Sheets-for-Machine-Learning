@@ -37,7 +37,8 @@
 
 ## Python-Basics
 
-![Python-Basics.png](Python-Basics.png)
+![Python-Basics_frame_0001.jpg](Python-Basics_frame_0001.jpg)
+![Python-Basics_frame_0002.jpg](Python-Basics_frame_0002.jpg)
 
 ## Python-Basics2
 
@@ -61,7 +62,10 @@
 
 ## Python-Pandas
 
-![Python-Pandas.png](Python-Pandas.png)
+![Python-Pandas_frame_0001.jpg](Python-Pandas_frame_0001.jpg)
+![Python-Pandas_frame_0002.jpg](Python-Pandas_frame_0002.jpg)
+![Python-Pandas_frame_0003.jpg](Python-Pandas_frame_0003.jpg)
+![Python-Pandas_frame_0004.jpg](Python-Pandas_frame_0004.jpg)
 
 ## Python-Pandas2
 
