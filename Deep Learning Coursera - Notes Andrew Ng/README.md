@@ -1,4 +1,4 @@
-## Deep Learning Coursera - Notes Andrew Ng
+## Deep Learning Coursera - Andrew Ng's Notes
 
 ![paper-0.jpg](paper-0.jpg)
 ![paper-1.jpg](paper-1.jpg)
