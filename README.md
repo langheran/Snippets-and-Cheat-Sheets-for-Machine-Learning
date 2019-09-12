@@ -3,6 +3,7 @@
 ## ML Overview
 
 ![ML-Tasks](images/ML-Tasks.png)
+
 Image source: http://www.cognub.com/index.php/cognitive-platform/
 
 ## Cheat Sheets
